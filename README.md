@@ -5,6 +5,11 @@ There are three design files required to generate the geometry of the device. Th
 
 The design files are as follows:
 
-Lid- The top of the device, which houses the pogo pins.
-Base- The base of the device, which is threaded to match the lid.
-Parameters- This holds parameters common to both the lid and base components.
+lid- The top of the device, which houses the pogo pins.
+base- The base of the device, which is threaded to match the lid.
+indenter_jig_Parameters- This holds parameters common to both the lid and base components.
+
+The libraries are as follows:
+
+threads- provides ISO standard thread dimensions
+knurl- provides a knurled service for the lid
