@@ -11,5 +11,5 @@ indenter_jig_Parameters- This holds parameters common to both the lid and base c
 
 The libraries are as follows:
 
-threads- provides ISO standard thread dimensions
-knurledFinishLib_v2- provides a knurled service for the lid
+threads- provides ISO standard thread dimensions.
+knurledFinishLib_v2- provides a knurled service for the lid.
